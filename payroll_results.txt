@@ -1,0 +1,24 @@
+
+
+
+
+1 Bob Camden 0.0
+2 Jill Thomas 0.0
+3 Mary Green 0.0
+4 Gus O'Toole 0.0
+5 Manuel Cortez 0.0
+6 Jim Thompson 0.0
+7 Carrie Swetson 0.0
+8 Jack Donaldson 243.33333333333334
+9 Doris Van Huesen 0.0
+10 Elliot Ness 0.0
+1 Bob Camden 12.50
+2 Jill Thomas 0.00
+3 Mary Green 0.00
+4 Gus O'Toole 0.00
+5 Manuel Cortez 0.00
+6 Jim Thompson 0.00
+7 Carrie Swetson 0.00
+8 Jack Donaldson 0.00
+9 Doris Van Huesen 0.00
+10 Elliot Ness 0.00
